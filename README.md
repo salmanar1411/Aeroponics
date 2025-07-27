@@ -1,3 +1,3 @@
 # Aeroponics
 
-Automated Aeorponics System
+Automated Aeroponics System
